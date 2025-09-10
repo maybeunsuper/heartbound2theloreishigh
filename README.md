@@ -1,4 +1,4 @@
-<img width="233" height="216" alt="image" src="https://github.com/user-attachments/assets/40220f81-030d-4474-b6e3-3f7358be041d" />## Heartbound 2, The Lore is High
+## Heartbound 2, The Lore is High
 <p align="center">
     <img width="1000" height="667" src="https://github.com/maybeunsuper/heartbound2theloreishigh/blob/master/images/logo.png">
 </p>
